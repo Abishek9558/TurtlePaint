@@ -1,1 +1,1 @@
-# TurtlePaint![](C:\Users\Student\pluralsight\workshops\TurtlePaint\Screenshot 2025-05-22 134221.png)
+![Image](https://github.com/Abishek9558/TurtlePaint/blob/main/Screenshot%202025-05-22%20134221.png?raw=true)
